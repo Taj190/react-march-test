@@ -1,0 +1,19 @@
+
+    .email{
+        input{
+           width : 80% ;
+           margin: 10px;
+           padding: 10px;
+        }
+   }
+    .password{
+       input{
+        width : 80% ;
+        margin: 10px;
+        padding: 10px;
+       }
+
+    }
+
+    
+
